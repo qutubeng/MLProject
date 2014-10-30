@@ -1045,7 +1045,7 @@ TechnicalInformationHandler {
 			long elapsedTime = stopTime - startTime;
 			
 			System.out.println("Execution Time: " + elapsedTime + " milliSecond");
-			System.out.println("*************************************************");
+			System.out.println("*********************End***********************");
 		}
 		
 		getRoc(evalTrain);
