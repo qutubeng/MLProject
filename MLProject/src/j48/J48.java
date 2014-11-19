@@ -1094,7 +1094,5 @@ TechnicalInformationHandler {
 		path = path.replace("\\", "/");
 		return path;
 	}
-	
-	//changes
-	
+	//
 }
